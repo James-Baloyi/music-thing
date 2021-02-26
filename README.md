@@ -12,3 +12,5 @@ This application  helps artists gather tips/pointers to get better at their craf
 
 
 3.`React` for the Front end.
+
+4.`PHP` for audio processing.
